@@ -28,4 +28,8 @@ export default {
         title: "Discord",
         icon:  "ri-discord-fill",
     },
+    telegramAuth: {
+        title: "Telegram",
+        icon:  "ri-telegram-fill",
+    },
 };
